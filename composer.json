@@ -1,0 +1,7 @@
+{
+    "name": "ipkroks/exponentiation",
+    "description": "Степени",
+    "require": {
+        "php": "^5.3",
+    }
+}
