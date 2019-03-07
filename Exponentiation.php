@@ -10,8 +10,4 @@ class Exponentiation {
 	public function go3($number) {
 		return $number ** 3;
 	}
-
-	public function go4($number) {
-		return $number ** 4;
-	}
 }
