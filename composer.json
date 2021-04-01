@@ -2,11 +2,14 @@
     "name": "ipkroks/exponentiation",
     "description": "Степени",
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=8.0.0"
     },
     "autoload": {
         "psr-4": {
-            "ipkroks\\exponentiation\\": ""
+            "ipkroks\\exponentiation\\": "src"
         }
-	}
+	},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
